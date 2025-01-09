@@ -29,3 +29,4 @@ npm run build
 ```shell
 npm start
 ```
+Link to the project: https://mern-chat-app-i4wd.onrender.com/
